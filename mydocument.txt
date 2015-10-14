@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-Git is free softfare.
+Git is free softfare distributed under the GPL.
